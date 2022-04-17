@@ -1,7 +1,8 @@
-# Si no funciona, puede ser porque en la web binance/gestion de la API, 
-# esta habilitada la opcion restringir acceso para la direcciones IP fiables
+# It is incomplete and I have no intention of finishing it, it is an old project
+# If it doesn't work, it may be because in the binance web/manage API.
+# the option restrict access for trusted IP addresses is enabled
 
-# BOT BINANCE PARA TENDENCIAS ALCISTAS
+# BINANCE BOT FOR UPTRENDS
 
 from binance.client import Client
 from binance.websockets import BinanceSocketManager
